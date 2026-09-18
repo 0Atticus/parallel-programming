@@ -1,0 +1,112 @@
+rm -rf bin
+mkdir -p bin
+g++ -std=c++17 -O3 -Wall -Wextra src/arrayMax.cpp -o bin/arrayMax 
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running int A A n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running int A A n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running int A A n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running int A D n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running int A D n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running int A D n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running int A R n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running int A R n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running int A R n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running int B A n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running int B A n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running int B A n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running int B D n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running int B D n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running int B D n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running int B R n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running int B R n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running int B R n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running double A A n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running double A A n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running double A A n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running double A D n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running double A D n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running double A D n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running double A R n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running double A R n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running double A R n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running double B A n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running double B A n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running double B A n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running double B D n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running double B D n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running double B D n=100000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [1000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [1000000: command not found
+Running double B R n=1000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [10000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [10000000: command not found
+Running double B R n=10000000 reps=15
+/var/spool/slurm/slurmd/job22181/slurm_script: line 37: [100000000: command not found
+/var/spool/slurm/slurmd/job22181/slurm_script: line 38: [100000000: command not found
+Running double B R n=100000000 reps=15
+done: 541 lines written to data/part1.csv
