@@ -46,3 +46,9 @@ for type in int double; do
 done
 
 echo "done: $(wc -l < "$OUT") lines written to $OUT" >&2
+
+OUT@=data/part1_cache.csv
+echo "variant,bytes,n,passes,rep,time_ns_per_pass" > "$OUT2"
+for v in B B4; do
+    ./bin/cachesweep "$v" 20 "$SEED" >> "$OUT2"
+done
