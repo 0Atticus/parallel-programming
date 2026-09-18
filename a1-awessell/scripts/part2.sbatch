@@ -37,7 +37,7 @@ for opt in O0 O2 O3; do
             else                           reps=15
             fi
             echo "Running $opt $type n=$n reps=$reps" >&2
-            ./bin/exclusivePrefix_$opt "$opt" "$type" "$n" "$reps" "$seed" >> "$OUT"
+            ./bin/exclusivePrefix "-$opt" "$type" "$n" "$reps" "$seed" >> "$OUT"
         done
     done
 done
