@@ -5,7 +5,7 @@ LDFLAGS :=
 SRC_DIR := src
 BIN_DIR := bin
 
-TARGETS := $(BIN_DIR)/arrayMax $(BIN_DIR)/cachesweep
+TARGETS := $(BIN_DIR)/arrayMax $(BIN_DIR)/cachesweep $(BIN_DIR)/exclusivePrefix
 
 .PHONY: all clean
 all: $(TARGETS)
