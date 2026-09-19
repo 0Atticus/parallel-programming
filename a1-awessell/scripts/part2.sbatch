@@ -25,6 +25,7 @@ mkdir -p data
 make clean
 make
 
+SEED=12345
 OUT2=data/part2.csv
 echo "opt,type,n,rep,time_ns" > "$OUT2"
 
