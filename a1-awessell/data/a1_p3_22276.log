@@ -1,0 +1,6 @@
+make: Nothing to be done for 'all'.
+[part3] M=256 K=256 N=256 reps=30
+[part3] M=512 K=512 N=512 reps=15
+[part3] M=1024 K=1024 N=1024 reps=10
+[part3] M=512 K=1024 N=256 reps=15
+done: 421 lines in data/part3.csv (expected 421)

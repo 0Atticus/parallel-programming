@@ -1,0 +1,8 @@
+make: Nothing to be done for 'all'.
+[part5] er
+[er] n=1048576  adjacency entries m=16777216  undirected edges=8388608  avg degree=16.00  (symmetric)
+[er] TEPS over 16 sources: min=1.285e+08  median=1.286e+08  max=1.286e+08   (reached fraction: min=1.0000 max=1.0000)
+[part5] rmat
+[rmat] n=1048576  adjacency entries m=16777216  undirected edges=8388608  avg degree=16.00  (symmetric)
+[rmat] TEPS over 16 sources: min=2.394e+08  median=2.401e+08  max=2.405e+08   (reached fraction: min=0.5274 max=0.5274)
+done: 321 lines in data/part5.csv (expected 321)
